@@ -1,0 +1,19 @@
+# Data and environments
+.venv/
+__pycache__/
+*.csv
+!results_table.csv
+
+# Compiled latex artifacts except pdf
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+
+# Ignore reference PDF
+tpa_17*.pdf
+
+# System
+.DS_Store
