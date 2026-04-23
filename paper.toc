@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {I}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {\mbox {I-A}}Background and Motivation}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {\mbox {I-B}}Problem Statement and Scope}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {II}Literature Review}{4}{section.2}%
+\contentsline {section}{\numberline {III}Theoretical Framework}{4}{section.3}%
+\contentsline {subsection}{\numberline {\mbox {III-A}}K-Nearest Neighbors (KNN) Regression}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {\mbox {III-B}}Support Vector Regression (SVR)}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {\mbox {III-C}}Long Short-Term Memory (LSTM)}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {IV}Experimental Methodology}{6}{section.4}%
+\contentsline {subsection}{\numberline {\mbox {IV-A}}Dataset Compilation and Integrity}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {\mbox {IV-B}}Chronological Dataset Splitting}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {\mbox {IV-C}}Data Normalization and Sliding Window Context}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {\mbox {IV-D}}Experimental Sandbox Parameters}{8}{subsection.4.4}%
+\contentsline {section}{\numberline {V}Results and Visual Evidence}{8}{section.5}%
+\contentsline {subsection}{\numberline {\mbox {V-A}}Quantitative Performance Matrix}{8}{subsection.5.1}%
+\contentsline {subsection}{\numberline {\mbox {V-B}}Learning Curve Analysis}{8}{subsection.5.2}%
+\contentsline {subsection}{\numberline {\mbox {V-C}}Qualitative Prediction Trajectories}{9}{subsection.5.3}%
+\contentsline {subsection}{\numberline {\mbox {V-D}}Individual Model Assessments}{10}{subsection.5.4}%
+\contentsline {section}{\numberline {VI}Extensive Discussion}{11}{section.6}%
+\contentsline {subsection}{\numberline {\mbox {VI-A}}The Dilemma of Constrained Archives (N \char `\~ 100-300)}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {\mbox {VI-B}}Optimization Plateaus (N \char `\~ 500)}{12}{subsection.6.2}%
+\contentsline {subsection}{\numberline {\mbox {VI-C}}Deep Learning Dominance threshold (N > 1000)}{12}{subsection.6.3}%
+\contentsline {section}{\numberline {VII}Limitations of the Study}{12}{section.7}%
+\contentsline {section}{\numberline {VIII}Conclusion and Future Explorations}{13}{section.8}%
+\contentsline {section}{References}{13}{section*.9}%
